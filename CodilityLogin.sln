@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodilityLogin", "CodilityLogin\CodilityLogin.csproj", "{472C2DF8-7DA1-4BA9-8EFA-DB98D99CB313}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodilityLogin.Tests", "CodilityLogin.Tests\CodilityLogin.Tests.csproj", "{352B6AB7-0095-4B87-9B94-EAB86B66A007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{472C2DF8-7DA1-4BA9-8EFA-DB98D99CB313}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{472C2DF8-7DA1-4BA9-8EFA-DB98D99CB313}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{472C2DF8-7DA1-4BA9-8EFA-DB98D99CB313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352B6AB7-0095-4B87-9B94-EAB86B66A007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352B6AB7-0095-4B87-9B94-EAB86B66A007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352B6AB7-0095-4B87-9B94-EAB86B66A007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352B6AB7-0095-4B87-9B94-EAB86B66A007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

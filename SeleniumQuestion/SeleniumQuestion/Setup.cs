@@ -10,7 +10,7 @@ namespace SeleniumQuestion
         public Setup()
         {
             driver = new ChromeDriver();
-            driver.Navigate().GoToUrl("https://localhost:44379");
+            driver.Navigate().GoToUrl("https://localhost:5001");
 
         }
 
